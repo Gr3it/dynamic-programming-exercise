@@ -1,9 +1,0 @@
-{
-  "C_Cpp.errorSquiggles": "Disabled",
-  "files.associations": {
-    "utility": "cpp",
-    "tuple": "cpp",
-    "iostream": "cpp",
-    "iosfwd": "cpp"
-  }
-}
